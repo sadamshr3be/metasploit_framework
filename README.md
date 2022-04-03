@@ -1,2 +1,11 @@
-# metasploit-frameworkmetasploit-framework
-metasploit v6.1.36-dev-a59aa86 من صدام الشرعبي
+# Termux-Metasploit
+metasploit-framework versio 6.0.24
+
+## رجعنا لكم م̷ـــِْن جديد وحل ٱڅڑ ليـّۓ تثبيت الميتاسبلويت ##
+```
+apt update && apt upgrade -y; apt install git -y; git metasploit_framework; cd metasploit_framework; -Metaspl*;bash setup;
+```
+
+
+## علـّۓ  التلجرام ##
+https://t.me/termuxalsharabi
